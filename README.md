@@ -1,4 +1,6 @@
 # conversor-de-bases-c++
+VAGNER ICILIO MACRINI 
+2840482623008
 
 #include <iostream>
 #include <string>
